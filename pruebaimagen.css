@@ -1,3 +1,9 @@
+.borde {
+    margin-bottom: 10px;
+    border-radius: 30px;
+    border-color: rgb(188, 27, 194);
+}
+
 body {
     
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -15,10 +21,9 @@ body {
 }
 .baner {
     border-radius: 25px;
-    border-color:brown
+    border: 25px;
+    border-color:brown;
+    
 }
 
-#seccion {
-    border-radius: 50px;
-    border-color: rgb(9, 14, 14);
-}
+
